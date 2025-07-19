@@ -1,10 +1,10 @@
-# 👋 Hi, I'm Lwazi Shozi
+ Hi, I'm Lwazi Shozi
 
-🎓 *Aspiring Software Engineer | Backend Developer | Mobile App Enthusiast*
+🎓 Aspiring Software Engineer | Backend Developer | Mobile App Enthusiast
 
 ---
 
-## 💻 About Me
+ 💻 About Me
 
 I’m a passionate software engineer currently pursuing my **Diploma in ICT Applications Development** at Cape Peninsula University of Technology, graduating in **May 2026**.
 
@@ -12,9 +12,9 @@ I enjoy solving real-world problems using elegant code and scalable architecture
 
 ---
 
-## 🛠️ Tech Stack & Tools
+ 🛠️ Tech Stack & Tools
 
-**Languages & Frameworks:**  
+Languages & Frameworks:**  
 `Java` | `Python` | `Kotlin` | `JavaScript` | `SQL` | `HTML` | `CSS` | `React` | `Spring Boot` | `Node.js`
 
 **Mobile & UI/UX:**  
