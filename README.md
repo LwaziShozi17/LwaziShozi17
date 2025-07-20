@@ -3,7 +3,7 @@
 <br> <a href="https://github.com/LwaziShozi17">Aspiring Software Engineer | Backend Developer | Mobile App Enthusiast</a>
 
 I’m a passionate software developer currently pursuing my **Diploma in ICT Applications Development** at **Cape Peninsula University of Technology**, graduating in **May 2026**.  
-I enjoy solving real-world problems using elegant, scalable code. Whether it’s backend systems, mobile apps, or full-stack platforms—I love building solutions that actually make a difference.
+I enjoy solving real-world problems using elegant, scalable code. Whether it’s backend systems, mobile apps, or full-stack platforms I love building solutions that actually make a difference.
 
 ---
 
