@@ -78,7 +78,7 @@ I enjoy solving real-world problems using elegant, scalable code. Whether it’s
 
 | Project                              | Description                                                               | Stack                                     |
 |--------------------------------------|---------------------------------------------------------------------------|------------------------------------------|
-| [ResiFind](https://github.com/lwazi112003/ResiFind) | Student accommodation portal for CPUT – 96% project grade                 | JavaScript, HTML, CSS, SQLite            |
+| ResiFind | Student accommodation portal for CPUT – 96% project grade                 | JavaScript, HTML, CSS, SQLite            |
 | Computer Lab Booking System          | Book lab computers based on hardware/software needs                       | React, Spring Boot, MySQL                |
 | Health App                           | Health and wellness app with Firebase authentication                      | React Native (Expo), Firebase            |
 | Zero Waste (Coming Soon)             | Recipe generator using leftover ingredients to reduce food waste          | React Native, Firebase, Figma            |
