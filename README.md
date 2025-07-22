@@ -80,8 +80,7 @@ I enjoy solving real-world problems using elegant, scalable code. Whether it’s
 |--------------------------------------|---------------------------------------------------------------------------|------------------------------------------|
 | [ResiFind](https://github.com/lwazi112003/ResiFind) | Student accommodation portal for CPUT – 96% project grade                 | JavaScript, HTML, CSS, SQLite            |
 | Computer Lab Booking System          | Book lab computers based on hardware/software needs                       | React, Spring Boot, MySQL                |
-| [PenAlumni](https://github.com/LwaziShozi17/PenAlumni) | Android Room app with login/signup & user DB                             | Kotlin, Room, Jetpack Compose            |
-| HealthKApp                           | Health and wellness app with Firebase authentication                      | React Native (Expo), Firebase            |
+| Health App                           | Health and wellness app with Firebase authentication                      | React Native (Expo), Firebase            |
 | Zero Waste (Coming Soon)             | Recipe generator using leftover ingredients to reduce food waste          | React Native, Firebase, Figma            |
 
 ---
