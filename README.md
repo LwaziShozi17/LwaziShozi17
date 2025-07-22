@@ -1,5 +1,6 @@
-## 👨‍💻 About Me  
-# LWAZI SHOZI  
+👨🏽‍💻 Hi there! I'm Lwazi Shozi, a passionate Software Engineer who loves building smart and impactful tech solutions.
+
+
 <br> <a href="https://github.com/LwaziShozi17">Aspiring Software Engineer | Backend Developer | Mobile App Enthusiast</a>
 
 I’m a passionate software developer currently pursuing my **Diploma in ICT Applications Development** at **Cape Peninsula University of Technology**, graduating in **May 2026**.  
