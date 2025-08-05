@@ -8,7 +8,7 @@ I enjoy solving real-world problems using elegant, scalable code. Whether it’s
 
 ---
 
-## 🎓 What I'm Learning Right Now (Final Year Modules)
+## 🎓 What I'm Learning Right Now (Final Months Modules)
 
 - **Applications Development (ADP):** Java & backend-focused development, real-world enterprise logic.
 - **Applications Development Theory (ADT):** Software architecture, development methodologies, and OOP principles.
